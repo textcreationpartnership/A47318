@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Keymors observation made upon the Dutch fishing about the year 1601 demonstrating that there is more wealth raised out of herrings and other fish in His Majesties seas by the neighbouring nations in one year, then the King of Spain hath from the Indies</title>
+            <author>Keymor, John, fl. 1610-1620.</author>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47318</idno><idno type="EEBO-CITATION">9088688</idno>
+  <idno type="VID">42410</idno>
+  <idno type="EEBO-PROQUEST">2264211522</idno>
+  
+            <idno type="STC">Wing K390</idno>
+            <idno type="STC">ESTC R25717</idno>
+            <idno type="OCLC">09088688</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42410)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1288:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Keymors observation made upon the Dutch fishing about the year 1601 demonstrating that there is more wealth raised out of herrings and other fish in His Majesties seas by the neighbouring nations in one year, then the King of Spain hath from the Indies</title>
+                  <author>Keymor, John, fl. 1610-1620.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed from the Original Manuscript for Sir Edward Ford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Herring fisheries --  Netherlands.</term>
+               <term type="topical_term">Fishing --  Netherlands.</term>
+               <term type="topical_term">Fish trade --  Netherlands.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42410:1"/>
+            <p>
+               <hi>JOHN KEYMORS</hi> OBSERVATION MADE UPON THE Dutch Fishing, About the year 1601.</p>
+            <p>DEMONSTRATING That there is more Wealth Raised out of Herrings and other Fish in his Majesties Seas, by the Neighbouring Nati<g ref="char:EOLhyphen"/>ons in one year, then the King of <hi>Spain</hi> hath from the <hi>Indies</hi> in four.</p>
+            <p>AND That there were twenty thousand Ships and other Vessels, and about four hundred thousand People then set on work by both Sea and Land; and maintained only by Fishing upon the Coasts of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed from the Original Manuscript, for Sir <hi>Edward Ford</hi> in the year, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:42410:2"/>
+            <pb n="1" facs="tcp:42410:2"/>
+            <head>
+               <hi>JOHN KEYMORS</hi> OBSERVATION MADE UPON THE Dutch Fishing, About the year 1601.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing desirous to look into the World, to get knowledge for my Countrys good, I travelled <hi>France, Germany,</hi> and divers other Places, and Free-states. I found in <hi>Lubeck</hi> 700. great Ships, in <hi>Hamborough</hi> about 600. <hi>Embden</hi> lately a Fisher Town, within the memory of man not known to have 60. Ships, hath 1400. almost as many as belongs to all <hi>England. Holland,</hi> not so big as one of your Majesties Shires; 18. Dutch miles long, and 5. miles broad, hath about it 30. walled Towns, 400. Villages, and 20000. sail of Ships and Hoyes; which is more then <hi>England, France, Spain, Portugall, Itally, Scotland, Denmark, Polland, Sweethen</hi> and <hi>Rushea</hi> have all put together: and builds every year 1000. new Ships, having in their Soil neither matter to build them, nor Marchandizes to
+<pb n="2" facs="tcp:42410:3"/>set them forth, standing in admiration how this might be. I traced the Countries twice over from Town to Town, and from thence along his Majesties Sea Costs of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> where I found not only an <hi>Indian</hi> fleet of 40. or 50. sail, with 5. or 6000. people yearly imployed in this Your Fish<g ref="char:EOLhyphen"/>ing, one of the greatest Sea-businesses of the World; but at the least 20000. sail, and above 400000. persons of all Nations set on work in his Majesties Seas, about taking those innumerable riches of Herrings, and other fish which offer themselves to his Majesties Kingdoms above all Nations.</p>
+            <p>The <hi>Hollanders</hi> have above 4100. fishing Ships and Vessels, whereof 100. Doggerbotes, 700. Pinks and Wellbotes, 700. Stranbotes, 400. Evers, and 400. Galliotts, Drivers, and Tod<g ref="char:EOLhyphen"/>botes, and 1200. Busses; since I sollicited this to have 200. Busses built for <hi>England,</hi> the <hi>Hollanders</hi> have made 800. new Busses more, in all belonging to <hi>Holland</hi> 4100. Busses and other fishing Ships.</p>
+            <p>The 1500. Strandbotes, Evers, Galliotts, Drivers, and Tod<g ref="char:EOLhyphen"/>botes fish upon their own Coasts, and every of them sets on work one other Vessel to fetch salt and transport fish into other Coun<g ref="char:EOLhyphen"/>tries, so is their 3000. Vessels, and 40000. persons employed and maintained by fishing upon their own Coasts.</p>
+            <p>The 700. Pinks and Welbotes from 60. to 100. Tunns a peice, Doggerbotes of about 150. Tunns a peice, do fish altoge<g ref="char:EOLhyphen"/>ther upon the Coasts of <hi>England,</hi> and <hi>Scotland</hi> for Cod and Ling only, and every of these do set on work one other Vessel, to fetch salt and transport fish into other Countries, after they are brought into their own Countries out of his Majesties Seas.</p>
+            <p>The 2000. Busses from 60. to 100. and 200. Tunns a peice, employed only to take Herrings about <hi>Baughamness</hi> in <hi>Scotland,</hi> all along the Coasts of <hi>England</hi> to the <hi>Thames</hi> mouth, from <hi>June</hi> to <hi>November</hi> 26. weeks; and one of their great Busses do take 8, 12, or 20. Last of Herrings at a draught in one night, and car<g ref="char:EOLhyphen"/>ries into their own Country 40, 50, or 100. Last in a Busse; and our fishing continueth but seven weeks with small Crayets and Cobles from 5, to 10, 20. Tunns when the Herrings come home to our own road stead, and we take 1, 2, or 3. Lasts in a night, and when we bring home seven it is a great wonder.</p>
+            <pb n="3" facs="tcp:42410:3"/>
+            <p> Besides the number taken by their 2000. Busses, the <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> have above 400. other Vessels, called Gaynes and Evers, which do take Herrings at <hi>Yarmouth,</hi> and there sell them, and carry away ready money: They have yet 500. other Ships usually Trading every year to <hi>London</hi> with Codd and Ling taken in his Majesties Seas, as also other parts of <hi>England,</hi> and here sell them, and carry away most fine gold, which is made into base gold beyond Seas, a great hurt to the Wealth and Strength of our Land, and hinderance to Navigation and Marriners, and im<g ref="char:EOLhyphen"/>ployment of the poor of this Nation.</p>
+            <p>The <hi>Hollanders</hi> have made a Law in their own Country, that we shall sell no White Herrings nor other fish there (upon penal<g ref="char:EOLhyphen"/>ty of confiscation) because they will have no other Nation to serve their Country with fish, but what they take themselves; as well for the increase, as maintenance of Navigation, and set<g ref="char:EOLhyphen"/>ting their people on work. <hi>Hamborough</hi> likewise hath made an order that we shall sell no Herrings there, before their Busses be come from Fishing, and have sold all theirs. Thus they take Her<g ref="char:EOLhyphen"/>rings in his Majesties Seas, make laws to cross and hinder us in our own Sales, for the inriching, and strenghening themselves, and the increasing their Ships and Marriners.</p>
+            <p>The <hi>Hollanders</hi> do take in the time of 26. Weeks with 2000. Busses about 300000. Lasts (12. Barrells to the Last) which are sold to the Merchants at 10, or 12 l. the Last, the Fisher-mans price which amounteth to 3. Millions and 600000 l. The Mer<g ref="char:EOLhyphen"/>chants transport and sell them into <hi>Pomerland, Spruceland, Po<g ref="char:EOLhyphen"/>land, Denmark, Leifeland, Russia, Sweeden, Germany, Brabant, Flanders, France Lukeland,</hi> some into <hi>England,</hi> and other parts, and so sell them from 16, to 18, 20, 30, and 36 l. the Last and more, which I cannot esteem to be sold for less then five millions of pounds: All this benefit they make yearly of Herrings, taken out of his Majesties Seas.</p>
+            <p>Besides the Busses of <hi>France, Hamborough,</hi> and <hi>Embden,</hi> the <hi>Hollanders</hi> with their 2000. Busses do get the start of us for the Herring fishing 19. weeks, and every Buss doth take her self twice or thrice full, and they do serve near 20. Kingdoms, Duke<g ref="char:EOLhyphen"/>doms, and Free-States, in the East and North-east Regions, be<g ref="char:EOLhyphen"/>fore our great fishing begins at <hi>Yarmouth;</hi> and before our fishing
+<pb n="4" facs="tcp:42410:4"/>be ended. The <hi>Sound,</hi> and the Rivers that way are frozen, so we cannot pass, nor vent into those places.</p>
+            <p>For Cod and Ling they send forth about 1000. Sail from 50. to 100. Tunns a peice, every Ship making 4, or 5, and some 6, voyages in a year, where our small Crayers seldome make 2. voyages; which huge quantity of Fish and Herrings taken in his Majesties Seas they carry into their own Country, and after<g ref="char:EOLhyphen"/>wards by their own shipping transport them into Forraign King<g ref="char:EOLhyphen"/>doms, so much to their exceeding advantage, that in short time they will be able to eat all our shipping out at Sea, as may be conjectured by their former increase in so few years.</p>
+            <p>Besides the principal adventurers, I noted that thousands of Men, their Sons, Daughters, and Maid Servants, which take 40 s. or 3 l. wages in a year, some of them have 5 l, 10 l, and 20 l. ad<g ref="char:EOLhyphen"/>denture and more in the Busses, whereby they grow to great wealth before they come to be married, besides the Men Ser<g ref="char:EOLhyphen"/>vants.</p>
+            <p>The return of Marchandize, Wares and Coyn, for Herrings and other Fish (out of other Countries) is so great, that it maketh the Banck for Coyn, and Staple for all kind of Merchan<g ref="char:EOLhyphen"/>dize in <hi>Holland,</hi> where nothing groweth but a few Hoppes, Mader, and Cheese; so they make the Commodities of other Kingdoms serve their turns, to set their Ships and People on work, wherewith they inrich and strengthen themselves, to the admiration of all Nations. The States of <hi>Holland</hi> receive more Duties and Customes for Lasts of Herrings, Fish, and other Pro<g ref="char:EOLhyphen"/>fits inwards, and outwards (in one year) then all the Customes of <hi>England</hi> omes unto in two years. There was paid above 300000 l. 14, years past, besides the Custome of all other Marchandize, for Exizes, Licences, Wastage, and Lastage.</p>
+            <p>It is most evidently true, that his Majesties Seas are far richer then the King of <hi>Spains Indies,</hi> and there is more made of Fish taken by the <hi>French, Biskers, Portugall, Spaniards, Hollanders, Hamburgers, Breemers, Embdeners, Scotish, Irish,</hi> and <hi>English</hi> in one year, then the King of <hi>Spain</hi> hath in four years out of the <hi>Indies;</hi> for there is about 20000. Ships and Vessels, and above 400000. Persons set on work, and maintained only by the Fishing upon the Coasts of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> such an excel<g ref="char:EOLhyphen"/>lent
+<pb n="5" facs="tcp:42410:4"/>Jewel hath Neighbouring Princes and States upon his Ma<g ref="char:EOLhyphen"/>jesties Seas.</p>
+            <p>There was in <hi>Holland</hi> 126000. Marriners 20. years past, fince which time their Shipping and Marriners are mightily increased, every Town is grown as great again as they were before the Wars, and beautified with an infinite number of sumpteous Build<g ref="char:EOLhyphen"/>ings, enriched with all kind of Marchandizes and Coyn; And where they had but one Haven in a Town before the Wars, they have now 2, or 3. and yet not able to hold their Ships, if they were all at home (at one time.) And they employ daily much of their studies to open the gap of Trafique, and to make fullness of Trade, because it maketh a rich Commonwealth; and they spare for no cost, nor deny any privileges that may advance trade, and defend them from their enemies, whereby they prevail greatly.</p>
+            <p>These Herrings are sent Southward, by 20, 30, or 40. Last in a Ship, and makes rich return for Herrings, with Oyle, Wine, Prunes, Honey, Wooll, and such like commodities, as <hi>France, Spain,</hi> and <hi>Portugall</hi> yeild, with much Coyn.</p>
+            <p>For the <hi>Streights</hi> they load 60, or 70. Last of Red-herrings in a Ship, returning for Herrings, Velvets, Sattens, and all manner of Silks, Allums, Currans, and such wares as those parts yeild, with much Coyn.</p>
+            <p>Into the East Countries they load 50, or 60. Last of Herrings in a Ship, making up their Lading with <hi>French</hi> and <hi>Italian</hi> Mer<g ref="char:EOLhyphen"/>chandize, which they brought home for Herrings; and return for Herrings from the East Countries, Corn, Wax, Flax, Hemp, Pitch, Tar, Soap-ashes, Iron, Copper, Deal, Clapboard, Wain<g ref="char:EOLhyphen"/>scot, Mastes, Timber for houses, Shipping, Waterworks, Polish, Dollers, and <hi>Hungary</hi> Gilders.</p>
+            <p>Upon the River of <hi>Rine</hi> towards <hi>Weesell, Collein,</hi> and <hi>Franek<g ref="char:EOLhyphen"/>ford,</hi> other Vessels called Lurdains, drawn up with Horses, con<g ref="char:EOLhyphen"/>taining 3, 400. and some 5, and 600. Tunns a piece; the Skip<g ref="char:EOLhyphen"/>pers have no other houses with their Wives and Children to dwell in, and are born in them, and go always with them; these Vessels carry up 50, or 60. Last of Herrings a piece, and Barrel<g ref="char:EOLhyphen"/>led Fish, and store of Salt upon Salt, returning for the same com<g ref="char:EOLhyphen"/>modities; Iron, Steel, Glasse, Milstones, Renish-wines, Battery,
+<pb n="6" facs="tcp:42410:5"/>Plate for Harness, with other munition; Silks, Velvets, Bura<g ref="char:EOLhyphen"/>toes, Rash, Fustians, and other commodities, from <hi>Franekford, Mart,</hi> and other places of <hi>Germany;</hi> as those parts yeild store of Cassiars, Gilders, and rich Dollers; the same kind of Vessels pass up to <hi>Lukeland</hi> in like sort, and these do make but one Voyage in a year, but very rich.</p>
+            <p>To <hi>Brabant</hi> and <hi>Flanders</hi> they load 20, and 30. Last of Her<g ref="char:EOLhyphen"/>rings in a Ship, returning for the same most part Coyn, some quantity of Tapistry, Sayes, and Hulst Hops.</p>
+            <p>Besides of those Herrings, and Fish taken in his Majesties Seas, and (none other) are vented in great abundance into <hi>Grecia, Alexandria, Venice, Leagorne,</hi> and all over the <hi>Mediteranean Seas,</hi> and other parts even as far as <hi>Brazill.</hi>
+            </p>
+            <p>Into the East Kingdomes and Dukedomes, the <hi>Hollanders</hi> vent above 100000. Last in a year, and we not 80. Last. At <hi>Roan</hi> this last year we had not 80. Last, and the <hi>Hollanders</hi> had and sold there 3000. Last, and so in other parts accordingly.</p>
+            <p>Thus are we eaten out of Trade, and the bread taken out of our mouths in our own Seas, and the great Customes carried from his Majesties Coffers to Forraign Princes and States, by the greatness of their Busses, and the multitudes they take 19. weeks before our great Fishing begins at <hi>Yarmouth,</hi> and our Fishing lasteth but 7. weeks with small Crayers and Gobles, where their great Busses continue the Herring Fishing 26. Weeks together.</p>
+            <p>So it appears how they make the Commodities of other Na<g ref="char:EOLhyphen"/>tions serve their turns to enrich themselves, and increase their Shipping and Marriners, and to set their people on work to good benefit, to enlarge thier Cities and Towns, and to streng<g ref="char:EOLhyphen"/>then, and fortifie themselves exceedingly; and what an infinite store of Wealth they bring into that small Country having so slender a foundation as Fishermen, is admirable to behold.</p>
+            <p>Thus they make their Landmen Seamen, their Seamen Fisher<g ref="char:EOLhyphen"/>men, their Fishermen Marriners, Marriners Merchants, and o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Merchants Statesmen, to govern and make their Country prosper by long experience.</p>
+            <p>It followeth that one Busse of one 100. or 80. Tunns imploy<g ref="char:EOLhyphen"/>eth three Ships, sets on work and maintaineth both at Sea and
+<pb n="7" facs="tcp:42410:5"/>Land above 400. persons, and 30. several trades and occu<g ref="char:EOLhyphen"/>pations; that it may evidently appear how the 1000. Sail of Pi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks, Welbotes, and Doggerbotes, and there 2000. great Busses, do set on work 200000. persons, and 7200. Sail of Ships of the <hi>Hollanders,</hi> by Fishing upon his Maje<g ref="char:EOLhyphen"/>sties Coasts.</p>
+            <list>
+               <item>First, she sets on work in her own Hull, within her self, of Marriners and Fishermen 40.</item>
+               <item>Secondly, she imployeth three Ships besides her self, one to fetch home salt into their own Country, another to car<g ref="char:EOLhyphen"/>ry forth Barrels and Salt into her at Sea, and to bring her Herrings back into her own Country; and the third, to trans<g ref="char:EOLhyphen"/>port her Herrings beyond the Seas, and in 3. Ships and Busses 100. Marriners are imployed: Thus are 3. Ships and an 100. persons busied at Sea by one Busse.</item>
+               <item>Thirdly, at Land of Spinners and Hempwinders to make Cables and Cordage, likewise Yarn Twine, and Thred for the making of Nets and Lines, Weavers to make Sail-cloth, Viewers, Packers, Tellers, Dressers, Couchers to make the Herrings lawful Marchandizes; Tanners to Tan their Nets and Sails, Saltmen to make Salt upon Salt, Coopers in great a<g ref="char:EOLhyphen"/>bundance to make Barrels, Block, and Bowl, Makers for Ships, Porters, Keelmen, Lightermen, and Labourers to be imployed in carrying and removing; as also Hewers and Squarers of Timber, Sawyers of Planks, Carpenters, Ship<g ref="char:EOLhyphen"/>wrights, Smiths, Sledgemen, Charmen, Boatmen, Brewers Bakers, and a number of other persons too tedious to repeat. The Sailsmen and the Marriners, with divers others, depend<g ref="char:EOLhyphen"/>ing upon this unsearchable business, there cannot be less then 200. so that with the former there are 300. persons and 3. Ships set on work by one Busse.</item>
+            </list>
+            <p>And having yet besides all these that work, they have their Wives, Children, and Families hardly to be numbred, that neither do nor can work, and yet are maintained, and live wealthily out of this one Busse; the Marchants, Sailsmen, Owners of Ships, Masters, Marrinors, and Fishermen cannot deny this.</p>
+            <pb n="8" facs="tcp:42410:6"/>
+            <p> I have seen of <hi>English, Scottish, French, Hollanders, Embdeners, Breemers, Hamburgers</hi> and others, near 3000. Sail Fishing at one time, upon the Coast of <hi>Scotland, Shotland, Orkeney, Cattney, Northfarrel, Fowl Isle,</hi> and divers other places.</p>
+            <p>All the Busses of <hi>Holland, France, Embden,</hi> and <hi>Hamborough</hi> have their first lading of Herrings near <hi>Baughawanes,</hi> and above 1000. Sail of Pincks, Welboats, Doggerboats take Cod Ling, and other Fish there. Furthermore, all the great Staple Ling called <hi>Holland</hi> Ling, taken only by the <hi>Hol<g ref="char:EOLhyphen"/>landers,</hi> are gotten about these Isles, wherewith they serve all Christendome.</p>
+            <p>From the Staple near <hi>Barwick</hi> all along the Coast of <hi>England</hi> to the <hi>Thames</hi> Mouth, are innumerable shoals and variety of Fish; besides the multitude of Cods, Lings and Herrings, as Makerels, Whitings, Haddock, Soals, Thorneback, Floith, Scate, Brett, Gurnet, Turbutt, Plaice, Congers, Butts, and others innumerable.</p>
+            <p>From the <hi>Thames</hi> Moth all over the Coasts of <hi>Kent, Sussex, Hampshire, Wiltshire,</hi> and <hi>Dorcetshire,</hi> not such store of Cod, Ling, and Herrings; yet the like variety of other Fish (and more) as the eyes of the Fishermongers of <hi>London,</hi> the Country, and their Fishermen can testifie.</p>
+            <p>All over the Coasts of <hi>Devonshire</hi> and <hi>Cornwall,</hi> exceed<g ref="char:EOLhyphen"/>ing great shoals and variety of Fish, with Pilchards and Her<g ref="char:EOLhyphen"/>rings; the last year in <hi>June,</hi> such multitudes of Herrings came so near the Shoar of <hi>Claverly Key,</hi> and all over those places, that the people went with that small provision of Nets they had, and took and drew them up the Land in such plenty, that they were sold for 4 s. the thousand, the num<g ref="char:EOLhyphen"/>ber of a Barrel, and were such store that they gave them to their Hoggs to eat, and buried the rest in the ground, for lack of Salt and Barrels to preserve them.</p>
+            <p>Also about 20. miles from thence, there was abundance of Herrings spread the Seas, but the people took no more then they could spend presently, for lack of provision to
+<pb n="9" facs="tcp:42410:6"/>take and preserve them, of which there is great want about <hi>England.</hi>
+            </p>
+            <p>From the Mouth of <hi>Severn</hi> round about the Coast of <hi>Wales, Hollihead, Westchester, Liverpool,</hi> and so along the Coasts of <hi>England</hi> to <hi>Scotland,</hi> there is store and variety off Fish.</p>
+            <p>All over the Coast of <hi>Ireland, Galloway, Slego,</hi> and the Coasts of <hi>Cannaugh</hi> to <hi>Ballishauon,</hi> the <hi>Band,</hi> and the North of <hi>Ireland, Longford, Karickfargus,</hi> and <hi>Strengford,</hi> there is store and variety of Fish; besides the multitude of Cods, Lings, Herrings, Salmons, Seals, Porposes, Wherpool, and Dogfish.</p>
+            <p>In the Mouth of <hi>Ireland,</hi> not far from <hi>Dunegal,</hi> there are such multitudes of Herrings, that it is hardly to be be<g ref="char:EOLhyphen"/>lieved, so big and large that 3. Herrings make a yard in length: From <hi>Carlingford</hi> to <hi>Dundalk,</hi> the <hi>Bay</hi> of <hi>Dublin,</hi> and <hi>Waxford, Waterford, Bear-haven, Crooke-haven,</hi> and so round about the Coast of <hi>Ireland</hi> the like variety, and Fish in abundance.</p>
+            <p>The <hi>French, Hollanders, Embdeners, Bremoners, Hambur<g ref="char:EOLhyphen"/>gers</hi> and others, Fish upon the Coast of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> and this is the difference between them and us, they go forth in <hi>June</hi> to seek the Shoals of Herrings, and having found them, do dwell amongst them, coming along with them until <hi>November,</hi> taking them in great abundance; and we stay till the Herrings come home to our own Coast, and some time suffer them to pass by us before we look out, and so loose Gods blessing.</p>
+            <p>All these Nations do beat upon all his Majesties Coasts for Fish, with great Ships take and carry away innumerable riches, when our little Boats, Crayers, and Cobles, dare not look out at Sea but in fair weather (for in fowl weather the Sea swalloweth them up) neither dare they Fish far from the Shore in fair weather their Boats are so slender and slight.</p>
+            <pb n="10" facs="tcp:42410:7"/>
+            <p> The people of <hi>Ireland,</hi> and round about the Coasts of <hi>England,</hi> after they have been at Sea and brought home their Vessels full of Fish, will not go to Sea again for more till those be spent and they in debt, till necessity compells them, un<g ref="char:EOLhyphen"/>less it be some few, and they prosper, yet they are loath to take too much, lest it should be too cheap, for they never seek other Markets but their own; and our Fishermen go to Sea over night to take Fish to serve the Markets the next day, and some at 3. a clock in the morning go to fetch Fish, and yet return home at 9. a clock in the same morning to serve their Market with their Boats full, Laden with Cod and Ling and other Fish, and then to the Alehouse, drinking day and night, till all be spent, and they in debt, and can be no longer trust<g ref="char:EOLhyphen"/>ed, and then to Sea again for more. This is the life of these people where great riches is to be gotten.</p>
+            <p>Such an excellent benefit hath God sent his Majesty and his Kingdomes, as, let all the Kingdomes in Christendome be put together, they are not able to compare with the Fishing upon these Coasts, nor yet the <hi>Spanish Indies:</hi> I speak it knowingly.</p>
+            <p>And further, let all the Mines of these Kingdomes, as Lead, Tinn, Iron, Copper, Allum, yea, Cloth and Wooll be put together, yet, the Fishing will do more good to his Maje<g ref="char:EOLhyphen"/>sties Kingdomes then all these, in these four points.</p>
+            <list>
+               <item>First, for the augmentation, maintenance, and increase of Navigation and Marrinors, which hath ever been held a spe<g ref="char:EOLhyphen"/>cial Jewel for <hi>England.</hi>
+               </item>
+               <item>Secondly, in bringing into his Majesty and Kingdomes, great riches of all kinds, and making such strength of Ships and Marriners, as will make all Nations of the World to Vail the Bonnet to <hi>England.</hi>
+               </item>
+               <item>Thirdly, for the bringing in, and making imployment for all people, both young and old, for the keeping of them from begging and stealing, and other disorders; and hereby his Majesty shall make exceeding great Trade and Trafique within this Land, upon the Seas, as the like hath never been affected by any King of <hi>England</hi> for the general good.</item>
+               <pb n="11" facs="tcp:42410:7"/>
+               <item> Fourthly, for the bringing in, and making all things plenty, and causing many Storehouses in <hi>England</hi> to be erected and filled full of Fish, to serve our selves and transport into other Kingdomes; like as <hi>Blackwell Hall</hi> in <hi>London,</hi> and other places in <hi>England</hi> are with Cloth, which continually are emptied and yet always filled.</item>
+            </list>
+            <p>It is most evident true (God be thanked) that there is <hi>Fish</hi> and Herrings enough, and vent enough for us all, if we had as many Busses as they; for the 20. hundred great Busses belonging to <hi>Holland, France, Embden,</hi> and <hi>Hamborough,</hi> and above 200. new Busses which they build and increase year<g ref="char:EOLhyphen"/>ly (all not able to serve Christendome with Fish and Her<g ref="char:EOLhyphen"/>rings) they are scarce and dear in most Forraign King<g ref="char:EOLhyphen"/>domes in Lent; and afterward; few or none to be had un<g ref="char:EOLhyphen"/>till <hi>August.</hi> For in the East and North East Regions, and so in most Forraign Kingdomes and Dukedomes, the Herrings are very days meat Winter and Summer, as well to make them drink as to suffice their appetites, in such exceeding re<g ref="char:EOLhyphen"/>quest are the Herrings that there is great utterance for them in all parts through Christendome, and in the Hea<g ref="char:EOLhyphen"/>then Countries; so that if we had 20. Score Busses, and in<g ref="char:EOLhyphen"/>crease them to 20. Hundred, yet is there vent enough and Herrings enough for us all to take upon his Majesties Coasts, God continue it.</p>
+            <p>And for as much as God hath sent this excellent Blessing to his Majesty above all other Kings, and that this huge quantity of Fish and Herrings do offer themselves to his Ma<g ref="char:EOLhyphen"/>jesties Kingdomes beyond all Nations, and that it is mani<g ref="char:EOLhyphen"/>fest that the Trade of Fishing is work-master to all other Trades, and by that means the Dutch increase their Far<g ref="char:EOLhyphen"/>things to Pounds, and their Pounds to Thousands, and what fruitfulness is in their Country? and not a begger there, every one getting his own living, is admirable to behold, that the poor man though he be blind, and have but one Hand, will get his own living by turning the Wheel for making Cables and Cordage; and others that have not one Leg, will get his own living, sitting on a Seat, with knit<g ref="char:EOLhyphen"/>ting
+<pb n="12" facs="tcp:42410:8"/>and making of Nets and Hooks; every Boy and Wench from 10. and 12. years and upwards, will get their own living by winding Hemp, spinning Yarn, making Twine and Thread for Nets, so idleness, beggery, and penury will be driven out of this Land, by com<g ref="char:EOLhyphen"/>modious constitutions as in other places they do, which never any Statute heretofore made could bring to pass, to the great glory of God, and comfort of his Majesties Subjects.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licensed, <hi>Febr.</hi> 22. 1664.</p>
+            <p>
+               <hi>Roger L'Estrange.</hi>
+            </p>
+            <pb facs="tcp:42410:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
